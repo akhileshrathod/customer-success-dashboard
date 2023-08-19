@@ -1,1 +1,2 @@
-# customer-success-dashboard
+Introducing the Customer Success Dashboard: An Excel-based solution designed to empower Customer Success teams with insights and analytics. Track customer engagement, assess key metrics like Date	Customer Acquisition Type	State	Product	Price	Units	Revenue	Delivery Performance	Return	Customer and satisfaction and visualize trends through interactive charts. This project harnesses Excel's familiar interface for data input and analysis. Utilize formulas and pivot tables to generate actionable reports. This dashboard offers an accessible way to monitor customer health and interactions without complex software.
+
